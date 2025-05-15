@@ -27,6 +27,18 @@ This commands includes
 <BR>
 
 ## Output
+1.ipconfig:
+![alt text](<Screenshot 2025-05-15 085201.png>)
+2.ping:
+![alt text](<Screenshot 2025-05-15 085239.png>)
+3.tracert:
+![alt text](<Screenshot 2025-05-15 085407.png>)
+4.ftp:
+![alt text](<Screenshot 2025-05-15 085504.png>)
+5.netstat:
+![alt text](<Screenshot 2025-05-15 085828.png>)
+6.nslookup:
+![alt text](<Screenshot 2025-05-15 085915.png>)
 
 ## Result
 Thus Execution of Network commands Performed 
